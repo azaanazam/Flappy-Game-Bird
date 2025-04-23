@@ -1,2 +1,1 @@
-# Flappy-Game-Bird
-Created By Azan Azam
+# Flappy-Bird-Game with JavaScript
